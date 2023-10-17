@@ -1,4 +1,4 @@
-FROM alpine:3.18.4
+FROM alpine:latest
 
 ARG PUID=1000
 ARG PGID=1000
